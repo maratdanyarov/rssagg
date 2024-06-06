@@ -20,3 +20,6 @@ This project is an RSS aggregator built using Go. It fetches and aggregates post
 - UUID
 - RSS Feed Parsing
 - Environment Variables for Configuration
+
+## Acknowledgments
+This project is based on the tutorial from the freeCodeCamp course "Go Programming – Golang Course with Bonus Projects" by Wags Lane.
